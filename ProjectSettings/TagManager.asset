@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - meteor
+  - shoot
+  - player
+  - destroyer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Bullets
+  - Particles
+  - Enemies
+  - Shield
+  - Walls
+  - PowerUP
+  - PlayerCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4168882331
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1607206317
+    locked: 0
+  - name: Enemys
+    uniqueID: 1357242589
+    locked: 0
+  - name: Bullets
+    uniqueID: 3962460937
+    locked: 0
+  - name: Shield
+    uniqueID: 504228489
+    locked: 0
+  - name: Especial effects
+    uniqueID: 2009125469
+    locked: 0

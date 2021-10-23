@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e755b8cd554b2fc4e803ea71449a5118, type: 3}
+  m_Name: ExpansiveData
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 6562478982171380782, guid: a3f8183add727f1469b4994b430a60a8, type: 3}
+  fireForce: 0
