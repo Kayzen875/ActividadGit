@@ -11,8 +11,10 @@ public class DamageSystem : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
        if (other.gameObject.TryGetComponent(out HealthSystem h))
-       {
+        {
             h.Hitted(damage);
         }  
     }
 }
+
+//Prueba Txema
